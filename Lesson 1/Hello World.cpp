@@ -1,12 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-/*
-    cout<<"*"<<endl;
-    cout<<"***"<<endl;
-    cout<<"*****";
-*/
 
+cout<< 1145+14+1919810;
 
 
     return 0;
