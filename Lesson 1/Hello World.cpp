@@ -2,12 +2,12 @@
 using namespace std;
 int main(){
 
-    int num;
+    int a,b,c;
 
-    cin>>num;
+    cin>>a>>b>>c;
 
-    cout<< num;
+    cout<< b;
 
-
+    
     return 0;
 } 
